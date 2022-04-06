@@ -2,4 +2,3 @@
 
 *Ödev 2
 
-![Ödevin Ekran Görüntüsü](img/2.PNG)
